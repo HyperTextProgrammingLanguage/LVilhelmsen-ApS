@@ -1,7 +1,7 @@
 # How to
 Start med at køre:
 ```bash
-npm install
+npm ci
 ```
 > Dette skal køres inde i "supabase-bros" godot projektet, der hvor "*package.json*" ligger.
 
