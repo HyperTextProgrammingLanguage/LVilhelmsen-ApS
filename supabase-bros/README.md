@@ -5,7 +5,7 @@ npm ci
 ```
 > Dette skal køres inde i "supabase" godot addonet, `./addons/supabase`, der hvor "*package.json*" ligger.
 
-Efter det går du ind i `supabase-bros/addons/supabase/` og finder `.env.example`, den kopierer du til `.env`.
+Efter det går du ind i `./addons/supabase/` og finder `.env.example`, den kopierer du til `.env`.
 
 Derefter går du ind på: [https://supabase.com/dashboard/](https://supabase.com/dashboard/) og finder dit projekt.
 
