@@ -3,7 +3,7 @@ Start med at køre:
 ```bash
 npm ci
 ```
-> Dette skal køres inde i "supabase-bros" godot projektet, der hvor "*package.json*" ligger.
+> Dette skal køres inde i "supabase" godot addonet, `./addons/supabase`, der hvor "*package.json*" ligger.
 
 Efter det går du ind i `supabase-bros/addons/supabase/` og finder `.env.example`, den kopierer du til `.env`.
 
